@@ -1,2 +1,1 @@
 branch1_2
-branch2
